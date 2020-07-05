@@ -31,6 +31,7 @@ public class Ade {
         for(i=0;i<a.length;i++)
         {
          mapDataBase.put(a[i],b[i]);
+		 System.out.println(mapDataBase);
         }
         
       }
